@@ -1,2 +1,2 @@
-# MiniProjects
-Included all mini projects that i have done so far
+# Sentiment Analysis using twitter data - Coursera
+
